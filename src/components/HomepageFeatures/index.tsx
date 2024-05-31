@@ -12,31 +12,31 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Desenvolvimento',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/coding.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Criamos websites e plataformas digitais otimizadas para atender às suas necessidades
+        específicas.
       </>
     ),
   },
   {
     title: 'Consultoria',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/consulter.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Implementamos técnicas avançadas de otimização de SEO para garantir que seu site seja facilmente
+        encontrado pelos motores de busca e ganhe visibilidade online.
       </>
     ),
   },
   {
     title: 'Marketing Digital',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/marketing.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Desenvolvemos estratégias de marketing digital sob medida para aumentar seus resultados e atingir
+        seu público-alvo de forma eficiente.
       </>
     ),
   },
@@ -66,13 +66,13 @@ function AdditionalContent() {
       </div>
       <div style={{ maxWidth: '800px', margin: '0 auto' }}>
         <p>
-          Bem-vindo ao nosso site, com a nossa parceria. A sua presença na internet é nossa prioridade. 
-          Domine o digital: estratégias de marketing digital e desenvolvimento que alavancam os resultados! 
+          Bem-vindo ao nosso site, com a nossa parceria. A sua presença na internet é nossa prioridade.
+          Domine o digital: estratégias de marketing digital e desenvolvimento que alavancam os resultados!
           Transformamos ideias em soluções digitais eficazes, auxiliando sua marca a se sobressair e alcançar novos níveis de sucesso.
         </p>
         <p>
-          Minha abordagem é totalmente personalizada, focando em entender suas necessidades específicas 
-          e oferecer soluções sob medida. Eu estou aqui para ajudá-lo a se destacar no universo digital, 
+          Minha abordagem é totalmente personalizada, focando em entender suas necessidades específicas
+          e oferecer soluções sob medida. Eu estou aqui para ajudá-lo a se destacar no universo digital,
           desde a criação de conteúdo interativo até a criação de websites otimizados.
           Juntos, é possível estabelecer uma presença online sólida e impactante que aumente a visibilidade do seu empreendimento.
         </p>
@@ -87,6 +87,11 @@ export default function HomepageFeatures(): JSX.Element {
   return (
     <>
       <AdditionalContent />
+      <hr style={
+        {
+          maxWidth: '80%',
+          margin: '50px auto'
+        }} />
       <section className={styles.features}>
         <div className="container">
           <div className="row">
