@@ -71,6 +71,10 @@ const config: Config = {
         },
         { to: '/blog', label: 'Blog', position: 'left' },
         {
+          type: 'localeDropdown',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/VitorCostaTI',
           label: 'GitHub',
           position: 'right',
@@ -79,7 +83,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} VitorCostaDev, Desenvolvido com Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} VitorCostaDev - Desenvolvido com Docusaurus.`,
     },
     prism: {
       theme: prismThemes.github,
