@@ -87,7 +87,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} VitorCostaDev - Desenvolvido com Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} VitorCostaDev`,
     },
     prism: {
       theme: prismThemes.github,
