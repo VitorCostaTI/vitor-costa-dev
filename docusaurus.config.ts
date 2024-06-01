@@ -24,7 +24,7 @@ const config: Config = {
         label: 'Português (Brasil)',
         direction: 'ltr',
       },
-      en: { 
+      en: {
         htmlLang: 'en-GB',
         label: 'English',
         direction: 'ltr',

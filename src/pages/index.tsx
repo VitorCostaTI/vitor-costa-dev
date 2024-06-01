@@ -7,6 +7,7 @@ import Heading from '@theme/Heading';
 
 import styles from './index.module.css';
 import Translate from '@docusaurus/Translate';
+import WhatsAppButton from '../components/WhatsAppButton';
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -39,6 +40,7 @@ export default function Home(): JSX.Element {
       <main>
         <HomepageFeatures />
       </main>
+      <WhatsAppButton />
     </Layout>
   );
 }
