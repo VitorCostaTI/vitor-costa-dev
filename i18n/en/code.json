@@ -285,5 +285,41 @@
   "theme.unlistedContent.message": {
     "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
     "description": "The unlisted content banner message"
+  },
+  "Domine o digital: Estratégias de marketing digital e desenvolvimento que impulsionam resultados!": {
+    "message": "Master digital: Digital marketing and development strategies that drove results!"
+  },
+  "Conheça meu trabalho": {
+    "message": "Discover my work"
+  },
+  "Domine o digital": {
+    "message": "Master digital"
+  },
+  "Bem-vindo ao nosso site, com a nossa parceria. A sua presença na internet é nossa prioridade. Domine o digital: estratégias de marketing digital e desenvolvimento que alavancam os resultados! Transformamos ideias em soluções digitais eficazes, auxiliando sua marca a se sobressair e alcançar novos níveis de sucesso.": {
+    "message": "Welcome to our website, with our partnership. Your presence on the internet is our priority. Master digital: digital marketing and development strategies that boost results! We transform ideas into effective digital solutions, helping your brand stand out and reach new levels of success."
+  },
+  "Minha abordagem é totalmente personalizada, focando em entender suas necessidades específicas e oferecer soluções sob medida. Eu estou aqui para ajudá-lo a se destacar no universo digital, desde a criação de conteúdo interativo até a criação de websites otimizados. Juntos, é possível estabelecer uma presença online sólida e impactante que aumente a visibilidade do seu empreendimento.": {
+    "message": "My approach is completely personalized, focusing on understanding your specific needs and offering tailored solutions. I'm here to help you stand out in the digital universe, from creating interactive content to creating optimized websites. Together, it is possible to establish a solid and impactful online presence that increases the visibility of your business."
+  },
+  "Vamos começar essa jornada em conjunto?": {
+    "message": "Let's start this journey together?"
+  },
+  "feature.development.title": {
+    "message": "Development"
+  },
+  "Criamos websites e plataformas digitais otimizadas para atender às suas necessidades específicas.": {
+    "message": "We create websites and digital platforms optimized to meet your specific needs."
+  },
+  "feature.consultancy.title": {
+    "message": "Consultancy"
+  },
+  "Implementamos técnicas avançadas de otimização de SEO para garantir que seu site seja facilmente encontrado pelos motores de busca e ganhe visibilidade online.": {
+    "message": "We implement advanced SEO optimization techniques to ensure your website is easily found by search engines and gains visibility online."
+  },
+  "feature.marketing.title": {
+    "message": "Digital marketing"
+  },
+  "Desenvolvemos estratégias de marketing digital sob medida para aumentar seus resultados e atingir seu público-alvo de forma eficiente.": {
+    "message": "We develop tailored digital marketing strategies to increase your results and reach your target audience efficiently."
   }
 }

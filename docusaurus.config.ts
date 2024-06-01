@@ -4,7 +4,6 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Vitor Costa',
-  tagline: 'Domine o digital: Estratégias de marketing digital e desenvolvimento que impulsionam resultados!',
   favicon: 'img/favicon.ico',
 
   url: 'https://your-docusaurus-site.example.com',
