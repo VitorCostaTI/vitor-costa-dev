@@ -74,6 +74,11 @@ const config: Config = {
           position: 'right',
         },
         {
+          href: 'https://www.linkedin.com/in/vitor-costa-10566b22a/',
+          label: 'LinkedIn',
+          position: 'right',
+        },
+        {
           href: 'https://github.com/VitorCostaTI',
           label: 'GitHub',
           position: 'right',
